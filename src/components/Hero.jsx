@@ -141,7 +141,7 @@ const Hero = () => {
         <h1 className="special-font hero-heading absolute bottom-5 right-5 z-40 text-[#e9311a]">
                    L <b>C</b> S
                 </h1>
-                <div className="absolute left-2 top-0 z-40 size-full ">
+                <div className="absolute left-2 top-[100px] z-40 size-full ">
                     <div className="mt-1 left-2 px-5 sm:px-10">
                         <h2 className="special-font hero-heading left-2">literal <br/> <b>cultural</b> society</h2>
                         <p className="mb-5 text-2xl max-w-64 font-robert-regular font-semibold text-black">The Cultural Society <br/> NIT Rourkela</p>
